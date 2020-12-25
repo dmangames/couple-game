@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/couple-game/static/css/main.0d712f39.chunk.css",
+    "main.js": "/couple-game/static/js/main.2a6bc292.chunk.js",
+    "main.js.map": "/couple-game/static/js/main.2a6bc292.chunk.js.map",
+    "runtime-main.js": "/couple-game/static/js/runtime-main.35d700d0.js",
+    "runtime-main.js.map": "/couple-game/static/js/runtime-main.35d700d0.js.map",
+    "static/js/2.1aeea966.chunk.js": "/couple-game/static/js/2.1aeea966.chunk.js",
+    "static/js/2.1aeea966.chunk.js.map": "/couple-game/static/js/2.1aeea966.chunk.js.map",
+    "static/js/3.7d09c0c9.chunk.js": "/couple-game/static/js/3.7d09c0c9.chunk.js",
+    "static/js/3.7d09c0c9.chunk.js.map": "/couple-game/static/js/3.7d09c0c9.chunk.js.map",
+    "index.html": "/couple-game/index.html",
+    "static/css/main.0d712f39.chunk.css.map": "/couple-game/static/css/main.0d712f39.chunk.css.map",
+    "static/js/2.1aeea966.chunk.js.LICENSE.txt": "/couple-game/static/js/2.1aeea966.chunk.js.LICENSE.txt",
+    "static/media/heart.de70e8ec.svg": "/couple-game/static/media/heart.de70e8ec.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35d700d0.js",
+    "static/js/2.1aeea966.chunk.js",
+    "static/css/main.0d712f39.chunk.css",
+    "static/js/main.2a6bc292.chunk.js"
+  ]
+}
